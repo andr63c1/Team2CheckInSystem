@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\andre\Documents\GitHub\Team2CheckInSystem\CheckInSystem\CheckInSystem\obj\Debug\netcoreapp3.1\
+C:\Users\Andreas\Documents\GitHub\Team2CheckInSystem\CheckInSystem\CheckInSystem\obj\Debug\netcoreapp3.1\
 CheckInSystem
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\andre\Documents\GitHub\Team2CheckInSystem\CheckInSystem\CheckInSystem\App.xaml
+C:\Users\Andreas\Documents\GitHub\Team2CheckInSystem\CheckInSystem\CheckInSystem\App.xaml
 61721012861
 
 12-448978976
-193959562006
+193-1104815819
 EmployeeWelcomeWindow.xaml;MainWindow.xaml;MoodWindow.xaml;PinCodeWindow.xaml;ResourceDictionaries\EllipseDictionary.xaml;ResourceDictionaries\NumPadDictionary.xaml;
 
 False
