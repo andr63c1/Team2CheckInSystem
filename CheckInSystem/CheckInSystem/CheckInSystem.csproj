@@ -31,4 +31,8 @@
     <Resource Include="Assets\Sad1.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Appliaction Layer\" />
+  </ItemGroup>
+
 </Project>
